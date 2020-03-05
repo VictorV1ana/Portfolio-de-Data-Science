@@ -19,5 +19,6 @@
 ## Projetos:
 Análise do Airbn Rio de Janeiro e Vancouver : (https://github.com/VictorV1ana/Estudo-Airbnb) 
 
+Análise da Violência no Rio de Janeiro :(https://bit.ly/39qZSCf)
 ## Publicações:
 Semelhanças e Diferenças Airbnb Vancouver e Rio de Janeiro: (https://bit.ly/39odrCh)
