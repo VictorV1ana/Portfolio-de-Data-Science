@@ -5,7 +5,7 @@
 </p>
 
 # Victor Viana 
-<sub>*Cientista de Dados* at Space Operations Center</sub>
+<sub>*Cientista de Dados* </sub>
 
 <sub> *Consultor de Projetos* at Pacto Cosultoria
 
