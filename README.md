@@ -17,15 +17,15 @@
 
 
 ## Projetos:
-Análise do Airbn Rio de Janeiro e Vancouver : https://github.com/VictorV1ana/Estudo-Airbnb
-
-Análise Doenças Cardíacas com ML: https://bit.ly/39YKjSC
-
-Projeto detecção de Fraudes: https://bit.ly/3euD3AE
+Churn Prediction: https://bit.ly/3jSwKbv
 
 Prevendo Adoção de Animais (Séries Temporais): https://github.com/VictorV1ana/ForecastAbrigoAnimais
 
-Churn Prediction: https://bit.ly/3jSwKbv
+Projeto detecção de Fraudes: https://bit.ly/3euD3AE
+
+Análise Doenças Cardíacas com ML: https://bit.ly/39YKjSC
+
+Análise do Airbn Rio de Janeiro e Vancouver : https://github.com/VictorV1ana/Estudo-Airbnb
 
 ## Publicações:
 What is churn, and how to predict it? :https://bit.ly/35YRnOi
