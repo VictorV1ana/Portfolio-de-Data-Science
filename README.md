@@ -7,7 +7,7 @@
 # Victor Viana 
 <sub>*Cientista de Dados* </sub>
 
-<sub> *Consultor de Projetos* at Pacto Cosultoria
+<sub> *Conselheiro* at Pacto Cosultoria
 
 
 **Background in:** Python, Machine Learning, Business Inteligence and Business Consulting.
@@ -28,6 +28,8 @@ Análise Doenças Cardíacas com ML: https://bit.ly/39YKjSC
 Análise do Airbn Rio de Janeiro e Vancouver : https://github.com/VictorV1ana/Estudo-Airbnb
 
 ## Publicações:
+Teste de Hipótese com Python: https://ovictorviana.medium.com/teste-de-hip%C3%B3tese-com-python-ba5d751f156c
+
 What is churn, and how to predict it? :https://bit.ly/35YRnOi
 
 Previsão de Adoção de Animais com Prophet : https://bit.ly/3kW6yOg
